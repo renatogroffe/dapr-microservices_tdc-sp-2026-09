@@ -4,3 +4,5 @@ Conteúdos da apresentação "Dapr + Microservices: descomplicando a implementa�
 Saiba mais sobre o projeto Dapr em: **https://dapr.io/**
 
 Diagramas utilizados nos slides: **https://github.com/renatogroffe/dapr-diagramas-2026-09**
+
+Exemplo utilizado durante a apresentação: **https://github.com/renatogroffe/aspnetcore10-dapr-statemanagement-otel-grafana_apicotacoesdolar**
